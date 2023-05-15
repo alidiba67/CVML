@@ -6,7 +6,7 @@ Welcome to the Computer Vision and Machine Learning Research Repository! This re
 
 ## Table of Contents
 
-- [Image Classification](#image-classification)
+- [Image Classification](#image-classification⭐⭐⭐)
 - [Object Detection](#object-detection)
 - [Image Segmentation](#image-segmentation)
 - [Action Classification](#action-classification)
@@ -17,7 +17,7 @@ Welcome to the Computer Vision and Machine Learning Research Repository! This re
 - [Contributing](#contributing)
 - [License](#license)
 
-## Image Classification ⭐⭐⭐
+## Image Classification⭐⭐⭐
 
 In this section, you will find resources related to image classification, including datasets, models, benchmarking techniques, and recent research papers.
 
