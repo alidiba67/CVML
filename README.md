@@ -21,7 +21,7 @@ Welcome to the Computer Vision and Machine Learning Research Repository! This re
 
 In this section, you will find resources related to image classification, including datasets, models, benchmarking techniques, and recent research papers.
 
-#### VGG
+#### VGG Test
 **Very Deep Convolutional Networks for Large-Scale Image Recognition.**
 Karen Simonyan, Andrew Zisserman
 - pdf: [https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
