@@ -538,9 +538,7 @@ This section focuses on object detection, covering topics such as algorithms, fr
 - intro: Submitted to IJCV 2018
 - arXiv: https://arxiv.org/abs/1809.02165
 
-# Papers&Codes
-
-## R-CNN
+#### R-CNN
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation**
 
@@ -1575,7 +1573,7 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - arxiv: https://arxiv.org/abs/1808.05560
 - youtube: https://youtu.be/xCYD-tYudN0
 
-# Detection Toolbox
+#### Detection Toolbox
 
 - [Detectron(FAIR)](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including [Mask R-CNN](https://arxiv.org/abs/1703.06870). It is written in Python and powered by the [Caffe2](https://github.com/caffe2/caffe2) deep learning framework.
 - [Detectron2](https://github.com/facebookresearch/detectron2): Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
