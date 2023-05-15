@@ -1368,8 +1368,6 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - arXiv: https://arxiv.org/abs/1809.08545
 - github: https://github.com/yihui-he/softer-NMS
 
-#### 2019
-
 **Feature Selective Anchor-Free Module for Single-Shot Object Detection**
 
 - intro: CVPR 2019
@@ -1419,7 +1417,6 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - intro: mAP of **48.4** on the COCO dataset
 - arXiv: https://arxiv.org/abs/1901.01892
 
-#### 2018
 
 **Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions**
 
