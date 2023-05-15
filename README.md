@@ -13,6 +13,7 @@ Welcome to the Computer Vision and Machine Learning Research Repository! This re
 - [Video Recognition](#video-recognition)
 - [Deep CNN Models](#deep-cnn-models)
 - [3D Vision Models](#3d-vision-models)
+- [CVML Courses](#CVML-courses)
 - [Additional Resources](#additional-resources)
 - [Contributing](#contributing)
 - [License](#license)
@@ -1598,7 +1599,7 @@ This section is dedicated to deep convolutional neural network (CNN) models, whi
 ⭐⭐⭐
 Explore the fascinating world of 3D vision models. This section covers topics such as 3D object recognition, depth estimation, point cloud processing, and related research papers.
 
-## Courses
+## CVML Courses
 
 #### Computer Vision
  * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (Colorado School of Mines)
