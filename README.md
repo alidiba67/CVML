@@ -1601,6 +1601,7 @@ Explore the fascinating world of 3D vision models. This section covers topics su
 
 ## CVML Courses
 ⭐⭐⭐
+Here is the list of nice computer vision and machine learning courses with online acceable materials.
 #### Computer Vision
  * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (Colorado School of Mines)
  * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/) - Alexei A. Efros and Trevor Darrell (UC Berkeley)
