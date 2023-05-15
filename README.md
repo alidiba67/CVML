@@ -6,7 +6,7 @@ Welcome to the Computer Vision and Machine Learning Research Repository! This re
 
 ## Table of Contents
 
-- [Image Classification ⭐⭐⭐](#image-classification)
+- [Image Classification](#image-classification)
 - [Object Detection](#object-detection)
 - [Image Segmentation](#image-segmentation)
 - [Action Classification](#action-classification)
@@ -17,8 +17,7 @@ Welcome to the Computer Vision and Machine Learning Research Repository! This re
 - [Contributing](#contributing)
 - [License](#license)
 
-## Image Classification ⭐⭐⭐
-
+## Image Classification
 In this section, you will find resources related to image classification, including datasets, models, benchmarking techniques, and recent research papers.
 
 #### VGG
@@ -501,7 +500,7 @@ Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianf
 - pdf: [https://arxiv.org/abs/2106.13797](https://arxiv.org/abs/2106.13797)
 - code: [official-pytorch: https://github.com/whai362/PVT](https://github.com/whai362/PVT)
 
-## Object Detection ⭐⭐⭐
+## Object Detection 
 
 This section focuses on object detection, covering topics such as algorithms, frameworks, datasets, and state-of-the-art models developed for accurate and efficient object detection.
 
@@ -1581,31 +1580,31 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - [mmdetection(SenseTime&CUHK)](https://github.com/open-mmlab/mmdetection): mmdetection is an open source object detection toolbox based on PyTorch. It is a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
 
 
-## Image Segmentation ⭐⭐⭐
+## Image Segmentation 
 
 Explore the field of image segmentation, including popular segmentation algorithms, datasets, and cutting-edge approaches for segmenting objects within images.
 
-## Action Classification ⭐⭐⭐
+## Action Classification 
 
 Discover resources related to action classification, which involves recognizing and classifying human actions in videos. This section includes datasets, models, and techniques specific to action classification tasks.
 
-## Video Recognition ⭐⭐⭐
+## Video Recognition 
 
 In this section, you will find information on video recognition, which involves understanding and analyzing videos to recognize and interpret various visual elements. Explore datasets, models, and techniques for video understanding tasks.
 
-## Deep CNN Models ⭐⭐⭐
+## Deep CNN Models 
 
 This section is dedicated to deep convolutional neural network (CNN) models, which have revolutionized computer vision research. Discover well-known CNN architectures, pre-trained models, and research papers showcasing the advancements in deep learning for computer vision.
 
-## 3D Vision Models ⭐⭐⭐
+## 3D Vision Models 
 
 Explore the fascinating world of 3D vision models. This section covers topics such as 3D object recognition, depth estimation, point cloud processing, and related research papers.
 
-## Additional Resources ⭐⭐
+## Additional Resources
 
 For an extensive list of computer vision resources, you can also check out the [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) repository by [Jianbo Shi](https://github.com/jbhuang0604). It contains a curated collection of various computer vision topics, including datasets, software, tutorials, and research papers.
 
-## Contributing ⭐
+## Contributing
 
 We welcome contributions from the community to make this repository even more comprehensive and up-to-date. If you have any suggestions, please feel free to open an issue or submit a pull request.
 
