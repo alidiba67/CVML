@@ -18,6 +18,7 @@ Welcome to the Computer Vision and Machine Learning Research Repository! This re
 - [License](#license)
 
 ## Image Classification
+⭐⭐⭐
 In this section, you will find resources related to image classification, including datasets, models, benchmarking techniques, and recent research papers.
 
 #### VGG
