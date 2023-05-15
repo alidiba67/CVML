@@ -1,4 +1,4 @@
-# Computer Vision and Machine Learning Research Repository
+# Computer Vision and Machine Learning: All you need to know [![Awesome]
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
