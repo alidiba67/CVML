@@ -21,7 +21,7 @@ Welcome to the Computer Vision and Machine Learning Research Repository! This re
 
 In this section, you will find resources related to image classification, including datasets, models, benchmarking techniques, and recent research papers.
 
-### VGG
+# VGG
 **Very Deep Convolutional Networks for Large-Scale Image Recognition.**
 Karen Simonyan, Andrew Zisserman
 - pdf: [https://arxiv.org/abs/1409.1556](https://arxiv.org/abs/1409.1556)
@@ -29,7 +29,7 @@ Karen Simonyan, Andrew Zisserman
 - code: [keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py](https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py)
 - code: [keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py](https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py)
 
-### GoogleNet
+# GoogleNet
 **Going Deeper with Convolutions**
 Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
 - pdf: [https://arxiv.org/abs/1409.4842](https://arxiv.org/abs/1409.4842)
