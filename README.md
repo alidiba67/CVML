@@ -12,6 +12,7 @@ Welcome to the Computer Vision and Machine Learning Research Repository! This re
 - [Action Classification](#action-classification)
 - [Video Recognition](#video-recognition)
 - [Deep CNN Models](#deep-cnn-models)
+- [Transformers](#transformers)
 - [3D Vision Models](#3d-vision-models)
 - [CVML Courses](#CVML-courses)
 - [Additional Resources](#additional-resources)
@@ -1596,6 +1597,7 @@ In this section, you will find information on video recognition, which involves 
 This section is dedicated to deep convolutional neural network (CNN) models, which have revolutionized computer vision research. Discover well-known CNN architectures, pre-trained models, and research papers showcasing the advancements in deep learning for computer vision.
 
 ## Transformers
+⭐⭐⭐
 For an ultimate and most recent recourses on Transformers just check out the [Ultimate-Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention).
 
 ## 3D Vision Models 
