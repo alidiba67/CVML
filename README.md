@@ -1600,7 +1600,7 @@ This section is dedicated to deep convolutional neural network (CNN) models, whi
 Explore the fascinating world of 3D vision models. This section covers topics such as 3D object recognition, depth estimation, point cloud processing, and related research papers.
 
 ## CVML Courses
-
+⭐⭐⭐
 #### Computer Vision
  * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (Colorado School of Mines)
  * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/) - Alexei A. Efros and Trevor Darrell (UC Berkeley)
