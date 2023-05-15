@@ -220,7 +220,7 @@ Chen Yunpeng, Jin Xiaojie, Kang Bingyi, Feng Jiashi, Yan Shuicheng
 - code [official : https://github.com/cypw/CRU-Net](https://github.com/cypw/CRU-Net)
 - code [unofficial-mxnet : https://github.com/bruinxiong/Modified-CRUNet-and-Residual-Attention-Network.mxnet](https://github.com/bruinxiong/Modified-CRUNet-and-Residual-Attention-Network.mxnet)
 
-## DLA
+#### DLA
 **Deep Layer Aggregation**
 Fisher Yu, Dequan Wang, Evan Shelhamer, Trevor Darrell
 - pdf: [https://arxiv.org/abs/1707.06484](https://arxiv.org/abs/1707.06484)
