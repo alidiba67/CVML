@@ -1595,6 +1595,9 @@ In this section, you will find information on video recognition, which involves 
 ⭐⭐⭐
 This section is dedicated to deep convolutional neural network (CNN) models, which have revolutionized computer vision research. Discover well-known CNN architectures, pre-trained models, and research papers showcasing the advancements in deep learning for computer vision.
 
+## Transformers
+For an ultimate and most recent recourses on Transformers just check out the [Ultimate-Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention).
+
 ## 3D Vision Models 
 ⭐⭐⭐
 Explore the fascinating world of 3D vision models. This section covers topics such as 3D object recognition, depth estimation, point cloud processing, and related research papers.
